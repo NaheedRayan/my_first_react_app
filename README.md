@@ -9,7 +9,7 @@ You can follow this youtube tutorial for further info [Build an App and Master R
 
 ## Screenshot
 
-![Alt text](https://www.youtube.com/watch?v=b9eMGE7QtTk)
+![Alt text](https://github.com/NaheedRayan/my_first_react_app/blob/main/Screenshot%20from%202023-10-27%2023-57-36.png)
 
 
 
